@@ -5,6 +5,7 @@
 }
 body {
     width: 100%;
+    font-family: 'Dosis', sans-serif;
 }
 .nab-bar {
     display: flex;
