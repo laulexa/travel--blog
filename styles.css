@@ -78,6 +78,26 @@ h1 {
     border-radius: 15px;
     object-fit: cover;
 }
+.city-images--container {
+    display: flex;
+    justify-content: center;
+}
+.container1 {
+    width: 250px;
+    height: 280px;
+    margin: 15px;
+}
+.image-1 {
+    position: absolute;
+    width: 250px;
+    height: 280px;
+    object-fit: fill;
+}
+.txt-1 {
+position: relative;
+top: 18px;
+left:  18px;
+}
 .footer {
     display: flex;
     justify-content: space-around;
